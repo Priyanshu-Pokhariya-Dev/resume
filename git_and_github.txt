@@ -1,0 +1,15 @@
+Git and GitHub
+
+Git:
+- Git is a distributed version control system.
+- It lets you track changes to files, manage source code history, and collaborate with others.
+- Git stores snapshots of your project and allows you to switch between versions.
+
+GitHub:
+- GitHub is a cloud service built around Git.
+- It hosts Git repositories online so teams can share code, review changes, and manage projects.
+- GitHub adds features like pull requests, issues, project boards, and web-based file browsing.
+
+Differences:
+- Git is the tool; GitHub is a hosting platform for Git repositories.
+- You can use Git without GitHub, but GitHub requires Git to work with repositories.

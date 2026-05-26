@@ -1,0 +1,19 @@
+Use of Git
+
+- Version control: Git helps you record changes to files over time and restore previous versions.
+- Collaboration: Multiple developers can work on the same project simultaneously.
+- Branching: Git allows branches for development, testing, and features without affecting the main code.
+- History: Git keeps a history of who changed what and when.
+- Backup: A Git repository can be cloned to many machines for redundancy.
+- Code review: Git workflows support reviewing changes before they are merged.
+- Release management: Git tags and branches help manage releases and deploy stable versions.
+
+Basic Git commands:
+- git init: create a new repository.
+- git add: stage changes for commit.
+- git commit: save a snapshot of staged changes.
+- git status: see current repository state.
+- git branch: list or create branches.
+- git checkout: switch branches or restore files.
+- git push: send changes to a remote repository.
+- git pull: retrieve changes from a remote repository.
